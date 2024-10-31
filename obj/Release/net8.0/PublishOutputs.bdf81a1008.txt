@@ -1,0 +1,7 @@
+C:\Users\CENSI USMP\Desktop\Prueba\publish\Prueba.exe
+C:\Users\CENSI USMP\Desktop\Prueba\publish\appsettings.Development.json
+C:\Users\CENSI USMP\Desktop\Prueba\publish\appsettings.json
+C:\Users\CENSI USMP\Desktop\Prueba\publish\Prueba.dll
+C:\Users\CENSI USMP\Desktop\Prueba\publish\Prueba.deps.json
+C:\Users\CENSI USMP\Desktop\Prueba\publish\Prueba.runtimeconfig.json
+C:\Users\CENSI USMP\Desktop\Prueba\publish\Prueba.pdb
