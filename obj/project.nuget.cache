@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkkPWgtorOY=",
+  "success": true,
+  "projectFilePath": "/home/julio/Escritorio/Prueba40/Prueba40.csproj",
+  "expectedPackageFiles": [
+    "/home/julio/.nuget/packages/harfbuzzsharp/2.8.2.3/harfbuzzsharp.2.8.2.3.nupkg.sha512",
+    "/home/julio/.nuget/packages/harfbuzzsharp.nativeassets.macos/2.8.2.3/harfbuzzsharp.nativeassets.macos.2.8.2.3.nupkg.sha512",
+    "/home/julio/.nuget/packages/harfbuzzsharp.nativeassets.win32/2.8.2.3/harfbuzzsharp.nativeassets.win32.2.8.2.3.nupkg.sha512",
+    "/home/julio/.nuget/packages/questpdf/2022.12.0/questpdf.2022.12.0.nupkg.sha512",
+    "/home/julio/.nuget/packages/skiasharp/2.88.8/skiasharp.2.88.8.nupkg.sha512",
+    "/home/julio/.nuget/packages/skiasharp.harfbuzz/2.88.3/skiasharp.harfbuzz.2.88.3.nupkg.sha512",
+    "/home/julio/.nuget/packages/skiasharp.nativeassets.linux.nodependencies/2.88.8/skiasharp.nativeassets.linux.nodependencies.2.88.8.nupkg.sha512",
+    "/home/julio/.nuget/packages/skiasharp.nativeassets.macos/2.88.8/skiasharp.nativeassets.macos.2.88.8.nupkg.sha512",
+    "/home/julio/.nuget/packages/skiasharp.nativeassets.win32/2.88.8/skiasharp.nativeassets.win32.2.88.8.nupkg.sha512"
+  ],
+  "logs": []
+}
