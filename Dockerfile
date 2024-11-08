@@ -41,5 +41,8 @@ COPY --from=build-env /app/out .
 # Definir el nombre del archivo DLL de tu aplicación
 ENV APP_NET_CORE=Prueba40.dll
 
+ENV ASPNETCORE_ENVIRONMENT=Development
+
+
 # Comando para ejecutar la aplicación
 CMD ["sh", "-c", "ASPNETCORE_URLS=http://*:$PORT dotnet $APP_NET_CORE"]
